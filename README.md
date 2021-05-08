@@ -1,5 +1,5 @@
 # Epever_Tracer-Monitor-Blynk-MQTT
-Solution how send datas from Solar Charger Epever Tracer to Blynk and MQTT with ESP8266 to iobroker or emoncms 
+Solution how send datas from Solar Charger Epever Tracer to Blynk and MQTT with ESP8266 to iobroker or emoncms or any other mqqt broker
 
 The solution based on several descriptions:
 Source for Blynk code and connection ESP8266 to epever tracer you find:
