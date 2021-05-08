@@ -10,6 +10,8 @@ The code is for ESP8266 NodeMCU 1.0
 
 Settings for Arduino IDE see image settings
 
+Please modify for our IP`S, and keys in that examplefile.
+
 
 
 
